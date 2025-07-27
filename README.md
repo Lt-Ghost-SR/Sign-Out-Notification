@@ -38,14 +38,10 @@ A lightweight console-based application to log your work session start time, get
 
 When you launch the app, you’ll see a menu:
 
-================================================================================
-MENU
----------------------------------
-[1] | Update Notification File Path
-[2] | Update User Name
-[3] | Exit Program
-================================================================================
+<img width="851" height="490" alt="image" src="https://github.com/user-attachments/assets/0aa3d05e-44a1-41d1-abe2-c6d889e4d7c7" />
+
 You'll be prompted to enter your clock-in time or use the boot time.
+
 The app will calculate:
 
 Notification Time
