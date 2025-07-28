@@ -75,7 +75,7 @@ Safe Out: `16:33:00`
 
 Task scheduled successfully at `16:30`
 
-## 🧠 How Signout Notification Works
+## 🧠 Custom Signout Notification
 
 1. The **Signout Launcher** schedules this script at a defined **Notification Time**.
 2. When the script runs:
